@@ -27,7 +27,9 @@ Set Up Environment Variables:
 
 Create a .env file in the root directory.
 Add the required environment variables (e.g., MONGODB_URI, JWT_SECRET, etc.).
+
 .env:
+
 PORT=8000
 
 MONGODB_URI=mongodb+srv://zaid:mzip123@cluster0.vewc5dh.mongodb.net
