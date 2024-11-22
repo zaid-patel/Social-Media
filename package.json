@@ -10,7 +10,7 @@
   },
   "scripts": {
     "dev": "nodemon src/index.js",
-    "test": "jest"
+    "start": "node src/index.js"
   },
   "keywords": [
     "backend",
