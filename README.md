@@ -10,6 +10,8 @@ https://social-media-1-or9a.onrender.com
 Note: Authentication is required to view any content. You can use tools like Postman for testing the endpoints.
 Use the provided api documentation for better experience
 
+
+
 To Run Locally
 Fork the Repository:
 
@@ -27,6 +29,9 @@ Set Up Environment Variables:
 
 Create a .env file in the root directory.
 Add the required environment variables (e.g., MONGODB_URI, JWT_SECRET, etc.).
+
+
+
 
 .env:
 
@@ -51,11 +56,17 @@ CLOUDINARY_API_KEY= 212137711929392
 CLOUDINARY_API_SECRET=otvKMh7jUP77a1wNYyBR-EX_6P8
 
 
+
+
 Install Dependencies:
 
 Run the following command to install all required dependencies:
 
 npm install
+
+
+
+
 
 Run the Server:
 
